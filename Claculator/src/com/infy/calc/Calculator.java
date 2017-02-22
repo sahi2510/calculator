@@ -10,7 +10,7 @@ public class Calculator {
         int num1,num2;
         num1 = inp.nextInt();
         num2 = inp.nextInt();
-        System.out.println("Enter your selection: 1: Addition, 2: substraction 3: Multiplication and 4: division:");
+        System.out.println("Enter your selection: 1: Addition, 2:substraction 3:Multiplication and 4:division:");
         int choose;
         choose = inp.nextInt();
         switch (choose){
